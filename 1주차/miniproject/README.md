@@ -12,3 +12,4 @@ python client.py
 
 
 # 구성도
+![Alt text](img.png?raw=true "Title")
